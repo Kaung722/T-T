@@ -109,4 +109,5 @@ if (gameOver === false) {
     if (e.key === "Enter") startPlay();
   });
 }
+console.log(lee);
 //
