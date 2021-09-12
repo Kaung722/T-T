@@ -1,0 +1,54 @@
+.container {
+  background-color: rgb(114, 250, 114);
+  height: 700px;
+  width: 900px;
+  margin: 25px;
+  padding: 25px;
+}
+
+.text-container {
+  height: 100px;
+  width: 800px;
+  margin: 50px;
+  background-color: black;
+}
+
+.text-container1 {
+  height: 100px;
+  width: 800px;
+  margin: 50px;
+  background-color: rgb(160, 156, 156);
+}
+
+body {
+  background-color: green;
+}
+
+h1 {
+  color: white;
+  font-size: 35;
+}
+
+h2 {
+  color: white;
+  font-size: 55;
+}
+
+.score {
+  font-size: 38;
+  text-align: left;
+}
+
+.timer {
+  font-size: 38;
+  text-align: right;
+}
+
+.hidden {
+  display: none;
+}
+
+.press-Enter {
+  color: white;
+  font-size: 25px;
+}
